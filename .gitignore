@@ -4,3 +4,7 @@ logs
 
 # Mac Os temp files
 .DS_Store
+
+
+# Grunt intermediate storage
+.grunt
